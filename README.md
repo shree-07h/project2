@@ -2,4 +2,4 @@
 pushing repo from local to github
 
 # new update
-modified to check
+modified to check. added dot
